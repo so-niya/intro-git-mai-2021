@@ -1,2 +1,3 @@
 Homepage
-\nlien vers styles.css
+lien vers styles.css
+lien vers le panier
